@@ -7,4 +7,5 @@ This game is developed in Visual studio 2017 as Windows form app
 for minimax theorom
 
 https://en.wikipedia.org/wiki/Minimax_theorem
+
 http://mathworld.wolfram.com/MinimaxTheorem.html
